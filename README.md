@@ -9,4 +9,4 @@
 * Our investigation covers an understanding of Bayes' Theorem and Naive Bayes assumptions.
 * Furthermore, we conduct experiments with Laplace smoothing, the removal of less frequent words, and the elimination of stop words to gain a better understanding of their effects.
 
-I recommended that you start with reading this Medium [blog]() post for better understanding of the code.
+I recommended that you start with reading this Medium [blog](https://medium.com/@gauravthorat1998/text-classification-using-naive-bayes-classifier-nbc-from-scratch-e4b6c1cb6f4c) post for better understanding of the code.
